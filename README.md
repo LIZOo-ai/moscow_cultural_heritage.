@@ -76,7 +76,7 @@
 3. [Технологические аспекты создания веб-ГИС объектов культурного наследия для пространственного развития территории на примере Новосибирской области](http://intercarto.msu.ru/jour/article.php?articleId=873&lang=ru)
 
 ### Инструменты 
-- Google Sheets
+- [Google Sheets](https://docs.google.com/spreadsheets/d/1PQFnDEUqC0rwj0_q5HfZp9eh5XjSrLhYCS8sUEToLhk/edit?usp=sharing)
 - GitHub
 
 
